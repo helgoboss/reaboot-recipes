@@ -1,9 +1,8 @@
 {
     "name": "ReaLearn",
     "website": "https://www.helgoboss.org/projects/realearn/",
-    "manufacturer": "Helgoboss Projects",
-    "logo": "https://www.helgoboss.org/projects/realearn/slide.png",
-    "package_urls": [
+    "author": "Helgoboss Projects",
+    "required_packages": [
         "https://github.com/helgoboss/reaper-packages/raw/master/index.xml#p=Extensions/ReaLearn-x64&v=latest"
     ]
 }
